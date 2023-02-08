@@ -10,11 +10,11 @@
 
 
 
-let array = [1, 2, 3, 4, 5];
+let example = [1, 2, 3, 4, 5];
 
 function first (array){
 
-    console.log(array);
+    return array[0]
 }
 
-first(array[0]);
+consol.log(first(example));
